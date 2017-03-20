@@ -1,4 +1,9 @@
-This folder contains all the documents made as part of business analysis case study. These include:
+This folder contains all the documents made as part of business analysis case study. 
+Context - Health care insurance firm uses technologies these days to process insurance claims. 
+Insurance companies have their own networks which includes a set of organizations such as pharmacies, hospitals, health care providers etc.
+If an insurance claim request arrives from their own network, then prices gets discounted (repriced) based on pre-determined contracts. 
+In this case study, we perform business analysis for repricing IT systems. 
+These include:
 1) Business Model
 2) Business Requirement Document
 3) ERD Modeling
